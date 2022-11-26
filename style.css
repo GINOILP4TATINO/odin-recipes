@@ -1,0 +1,47 @@
+.giga {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.fotobox1 {
+    display: inline-block;
+    margin-right: 100px;
+}
+.fotobox2 {
+    display: inline-block;
+    margin-left: 100px;
+}
+#foto1 {
+    width: 700px;
+    height: auto;
+    display: block;
+}
+#foto2 {
+    width: 650px;
+    height: auto;
+    display: block;
+}
+#butt1 {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgb(221, 106, 24);
+}
+#butt2 {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgb(221, 177, 177);
+}
+.p {
+    text-align: center;
+}
+#butt1:hover {
+    background-color: rgb(177, 71, 32);
+}
+#butt2:hover {
+    background-color: rgb(171, 117, 117);
+}
